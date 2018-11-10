@@ -1,11 +1,11 @@
 {
   "name": "holamundo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hola Mundo",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "Test Dami",
   "license": "ISC"
 }
